@@ -1,0 +1,7 @@
+https://github.com/SagDub/Tosca.git
+
+1. Create account on GitHub
+2. Install Git https://git-scm.com/download/win
+3. Create a folder on C drive 
+4. Navigate to folder from cmd
+5. git clone https://github.com/SagDub/Tosca.git -outdir "C:\Tricentis\GitHub"
